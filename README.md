@@ -1,8 +1,8 @@
-# Aura Code Challenge
+# Code Challenge
 
-This challenge will allow you demostrate your knowledge and understanding of node.js.
-It is intended to be familar, much like a development story that could come up on the job.
-After you submit the completed project, we will schedule a follow-up code-review.
+This challenge will allow you demonstrate your knowledge and understanding of node.js.
+It is intended to be familiar, much like a development story that could come up on the job.
+
 
 ## The Story
 
